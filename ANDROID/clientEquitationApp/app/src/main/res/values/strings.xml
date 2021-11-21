@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">clientEmploiEquitationApp</string>
+    <string name="green">#FF8FEB91</string>
+    <string name="pink">#FFF996B5</string>
+</resources>

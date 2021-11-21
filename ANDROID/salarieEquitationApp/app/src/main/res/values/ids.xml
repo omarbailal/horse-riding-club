@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="passwordLayout" type="id" />
+    <item name="emailLayout" type="id" />
+    <item name="passwordInput" type="id" />
+    <item name="bttnLogin" type="id" />
+    <item name="emailInput" type="id" />
+    <item name="textView" type="id" />
+    <item name="horseLogo" type="id" />
+    <item name="errorMsg" type="id" />
+    <item name="monthYearText" type="id" />
+    <item name="weekDays" type="id" />
+    <item name="cellDayText" type="id" />
+    <item name="tasksNumber" type="id" />
+    <item name="seancesNumber" type="id" />
+    <item name="seances" type="id" />
+    <item name="tasks" type="id" />
+    <item name="seanceDuration" type="id" />
+    <item name="seanceTime" type="id" />
+    <item name="seanceDate" type="id" />
+    <item name="clientName" type="id" />
+    <item name="isDone" type="id" />
+    <item name="remarque" type="id" />
+    <item name="closeBtn" type="id" />
+    <item name="textIsDone" type="id" />
+    <item name="dateText" type="id" />
+    <item name="timeText" type="id" />
+    <item name="remarqueLabel" type="id" />
+    <item name="remarqueEditeText" type="id" />
+    <item name="saveBtn" type="id" />
+    <item name="taskDetail" type="id" />
+    <item name="taskTitle" type="id" />
+    <item name="taskDuration" type="id" />
+    <item name="taskTime" type="id" />
+    <item name="taskDate" type="id" />
+    <item name="borderBottom" type="id" />
+</resources>

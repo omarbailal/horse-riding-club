@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView" type="id" />
+    <item name="emailLayout" type="id" />
+    <item name="emailInput" type="id" />
+    <item name="passwordLayout" type="id" />
+    <item name="passwordInput" type="id" />
+    <item name="bttnLogin" type="id" />
+    <item name="hello" type="id" />
+    <item name="mounthYearText" type="id" />
+    <item name="calenderRecyclerView" type="id" />
+    <item name="cellDayText" type="id" />
+    <item name="monthYearText" type="id" />
+    <item name="cellTimeText" type="id" />
+    <item name="cellDurationText" type="id" />
+    <item name="errorMsg" type="id" />
+    <item name="mainTitle" type="id" />
+    <item name="horseLogo" type="id" />
+    <item name="closeBtn" type="id" />
+    <item name="dateText" type="id" />
+    <item name="timeText" type="id" />
+    <item name="remarqueLabel" type="id" />
+    <item name="remarqueEditeText" type="id" />
+    <item name="saveBtn" type="id" />
+    <item name="textIsDone" type="id" />
+    <item name="type" type="id" />
+</resources>
